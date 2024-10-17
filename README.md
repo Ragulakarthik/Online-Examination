@@ -1,6 +1,4 @@
-# OIBSIP_task_4
-Task -4 : ONLINE EXAMINATION
-I have completed Task-4 (Online Examination) in Java Programming.
+# ONLINE EXAMINATION
 
 I have tried to make this OnlineExamination a little bit different by adding GUI and AWT to the Program.
 This program starts by taking Login details of the Student, like the Roll no and Password.
